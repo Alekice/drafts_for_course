@@ -43,3 +43,18 @@ function findShort(s) {
 ```
 #### Work experience
 None yet.
+#### Education
+* **2011-2015**
+Saint-Petersburg State University\
+Foreign Literatures, Foreign Language (German)\
+Bachelor's Degree
+* **Online-courses:**
+    1. HTML, CSS and Javascript for Web Developers 2020 (Coursera)
+    2. HTML and CSS Basics 2020 (Netology)
+    3. Digital Start 2020 (Netology)
+    4. *(partly)* CS50's Itroduction to Computer Science (edX)
+* **Books:**
+    1. *Head First HTML with CSS & XHTML* -  Elisabeth Robson, Eric Freeman
+    2. *Head First JavaScript Programming* -  Elisabeth Robson, Eric Freeman
+    3. *Responsive Web Design with HTML5 and CSS3* - Ben Frain
+    4. *Grokking Algorithms* - Aditya Bhargava
