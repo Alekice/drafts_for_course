@@ -17,9 +17,6 @@ I'm eager to expand my professional knowledge and skills and looking forward to 
     * Phyton
     * Bootstrap
     * JQuery
-* Languages
-    * English
-    * Deutsch
 #### Code examples (JS)
 **1.** *Categorize New Member*
 ```
