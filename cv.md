@@ -58,3 +58,6 @@ Bachelor's Degree
     2. *Head First JavaScript Programming* -  Elisabeth Robson, Eric Freeman
     3. *Responsive Web Design with HTML5 and CSS3* - Ben Frain
     4. *Grokking Algorithms* - Aditya Bhargava
+#### English
+Level B1-B2.\
+English was necessary for communication when I was volunteering abroad.
