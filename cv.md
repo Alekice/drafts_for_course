@@ -20,3 +20,28 @@ I'm eager to expand my professional knowledge and skills and looking forward to 
 * Languages
     * English
     * Deutsch
+#### Code examples (JS)
+**1.** *Categorize New Member*
+```
+function openOrSenior(data) {
+        const result = [];
+        let len = data.length;
+        for (let i = 0, j = 0; i < len; i++) {
+            if (data[i][0] >= 55 && data[i][1] > 7) {
+                result[j] = "Senior";
+                j++;
+            } else {
+                result[j] = "Open";
+                j++;
+            }
+        }
+        return result;
+    }
+```
+**2.** *Find Shortest Word*
+```
+function findShort(s) {
+    return Math.min.apply(null, s.split(" ").map(word => word.length));
+}
+```
+
