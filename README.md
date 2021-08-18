@@ -1,1 +1,1 @@
-# rsschool-cv
+https://alekice.github.io/rsschool-cv/cv
