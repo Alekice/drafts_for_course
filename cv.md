@@ -1,12 +1,15 @@
 # CV
 ### Aleksandra Semenova
 #### Contacts
+---
 * **tel:** +7 (922) 955 45 76
 * **email:** semenovalekshu@gmail.com
 #### About me
+---
 As I decided to change my career, I'm just beginning my Web Development journey which I find very interesting and fasciating as well as challenging and full of ups and downs.\
 I'm eager to expand my professional knowledge and skills and looking forward to becoming a part of the IT world.
 #### Hard skills
+---
 * HTML
 * CSS
 * JavaScript Basics
@@ -18,6 +21,7 @@ I'm eager to expand my professional knowledge and skills and looking forward to 
     * Bootstrap
     * JQuery
 #### Code examples (JS)
+---
 **1.** *Categorize New Member*
 ```
 function openOrSenior(data) {
@@ -42,8 +46,10 @@ function findShort(s) {
 }
 ```
 #### Work experience
+---
 None yet.
 #### Education
+---
 * **2011-2015**
 Saint-Petersburg State University\
 Foreign Literatures, Foreign Language (German)\
@@ -59,5 +65,6 @@ Bachelor's Degree
     3. *Responsive Web Design with HTML5 and CSS3* - Ben Frain
     4. *Grokking Algorithms* - Aditya Bhargava
 #### English
+---
 Level B1-B2.\
 English was necessary for communication when I was volunteering abroad.
