@@ -6,3 +6,17 @@
 #### About me
 As I decided to change my career, I'm just beginning my Web Development journey which I find very interesting and fasciating as well as challenging and full of ups and downs.\
 I'm eager to expand my professional knowledge and skills and looking forward to becoming a part of the IT world.
+#### Hard skills
+* HTML
+* CSS
+* JavaScript Basics
+* Figma
+* Git
+* *within courses worked a bit with:*
+    * C
+    * Phyton
+    * Bootstrap
+    * JQuery
+* Languages
+    * English
+    * Deutsch
